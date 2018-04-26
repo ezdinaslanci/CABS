@@ -1,0 +1,118 @@
+# Number Of CABSs
+1
+
+# CABS 0:
+m-0-0.u-0-0.n-0-0.s-0-0.h-0-0.q-0-0.c-0-0.p-0-0.
+
+# Number of items (m)
+6
+
+# Number of unit of items for each item (u)
+10
+10
+20
+5
+5
+10
+
+
+# Cost of each item (c)
+1
+2
+3
+4
+5
+6
+
+
+# Number of bids (n)
+3
+
+# Bid 0:
+# Number of subbids (|S_i|)
+3
+
+# Subbid 0:
+# Number of items requested (s)
+1
+# List of items
+0
+
+# Quantity (q)
+10
+
+# Subbid 1:
+# Number of items requested (s)
+1
+# List of items
+3
+
+# Quantity (q)
+5
+
+# Subbid 2:
+# Number of items requested (s)
+1
+# List of items
+5
+
+# Quantity (q)
+4
+
+# Price of bid (p)
+1000
+
+# Bid 1:
+# Number of subbids (|S_i|)
+2
+
+# Subbid 0:
+# Number of items requested (s)
+2
+# List of items
+0
+2
+
+# Quantity (q)
+10
+
+# Subbid 1:
+# Number of items requested (s)
+1
+# List of items
+4
+
+# Quantity (q)
+5
+
+
+# Price of bid (p)
+600
+
+# Bid 2:
+# Number of subbids (|S_i|)
+2
+
+# Subbid 0:
+# Number of items requested (s)
+3
+# List of items
+0
+1
+2
+
+# Quantity (q)
+30
+
+# Subbid 1:
+# Number of items requested (s)
+1
+# List of items
+5
+
+# Quantity (q)
+5
+
+
+# Price of bid (p)
+1500

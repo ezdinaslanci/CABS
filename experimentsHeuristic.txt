@@ -1,0 +1,2 @@
+CABS		MaxVal				Time
+0			517714.327			16.573
